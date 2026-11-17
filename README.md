@@ -1,11 +1,13 @@
-<img align="right" src="https://github.com/yashvasdev.png" width="160" alt="Yash Vasdev" />
+
 
 # Hey, I'm Yash 👋
+
+<img align="right" src="https://github.com/yashvasdev.png" width="160" alt="Yash Vasdev" />
 
 **Computer Science + Statistics @ UBC**  
 **ML Engineer & AI Intern @ RBC · Software Engineer @ UBC UAS**
 
-I like building software that solves problems people actually face. Lately, that has meant everything from computer vision for drones and safer driving to privacy tools and offline emergency-response systems. I also love hackathons—the energy of finding a good problem, building with a team, and turning an idea into something people can try in a weekend.
+I like building software that solves problems people actually face. Lately, that has meant everything from computer vision for drones and safer driving to privacy tools and offline emergency-response systems. I also love hackathons, the energy of finding a good problem, building with a team, and turning an idea into something people can try in a weekend.
 
 [Portfolio](https://yashvasdev.com) · [LinkedIn](https://www.linkedin.com/in/yash-vasdev/) · [Hackathon work](#hackathon-highlights)
 
