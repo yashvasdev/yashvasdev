@@ -5,7 +5,7 @@
 **Computer Science + Statistics @ UBC**  
 **ML Engineer & AI Intern @ RBC · Software Engineer @ UBC UAS**
 
-I build machine-learning and software systems for real-world problems—from UAV perception and road safety to privacy and resilient emergency response. I especially enjoy the fast loop of hackathons: find a meaningful problem, build with a great team, and get a working product in front of people.
+I like building software that solves problems people actually face. Lately, that has meant everything from computer vision for drones and safer driving to privacy tools and offline emergency-response systems. I also love hackathons—the energy of finding a good problem, building with a team, and turning an idea into something people can try in a weekend.
 
 [Portfolio](https://yashvasdev.com) · [LinkedIn](https://www.linkedin.com/in/yash-vasdev/) · [Hackathon work](#hackathon-highlights)
 
